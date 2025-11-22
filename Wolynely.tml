@@ -1,0 +1,46 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio yanjye</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Wolynely Brazillaii</h1>
+        <p>Welcome to my Portfolio!</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Ndi umunyeshuri ukunda ikoranabuhanga na graphic design.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Graphic Design</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <button id="showProject">Click to see a project!</button>
+        <p id="projectInfo"></p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:wolynely@example.com">wolynely@example.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Wolynely Brazillaii</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
